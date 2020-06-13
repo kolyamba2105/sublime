@@ -28,7 +28,7 @@
 				<key>block_caret</key>
 				<string>#999a9e</string>
 				<key>foreground</key>
-				<string>#f8f8f2</string>
+				<string>#f5f5f5</string>
 				<key>invisibles</key>
 				<string>#3B3A32</string>
 				<key>lineHighlight</key>
@@ -76,7 +76,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f1fa8c</string>
+				<string>#9ccc65</string>
 			</dict>
 		</dict>
 		<dict>
@@ -170,7 +170,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff79c6</string>
+				<string>#ff8f00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,9 +194,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#ffd740</string>
 			</dict>
 		</dict>
 		<dict>
@@ -209,7 +209,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#8be9fd</string>
+				<string>#ffc107</string>
 			</dict>
 		</dict>
 		<dict>
@@ -274,7 +274,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#f06292</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +285,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#ffb86c</string>
 			</dict>
@@ -313,7 +313,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#50fa7b</string>
+				<string>#f06292</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,9 +350,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
 				<key>foreground</key>
-				<string>#66d9ef</string>
+				<string>#e57373</string>
 			</dict>
 		</dict>
 		<dict>
